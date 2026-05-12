@@ -7,4 +7,4 @@ test
 *.Zone.Identifier
 *:Zone.Identifier
 .claude/
-results/
+# results/  # kept tracked for validation plots
