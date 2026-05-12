@@ -1,0 +1,10 @@
+__pycache__/
+*.nbc
+*.nbi
+*.pyc
+smoke.log
+test
+*.Zone.Identifier
+*:Zone.Identifier
+.claude/
+results/
